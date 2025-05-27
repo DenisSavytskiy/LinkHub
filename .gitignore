@@ -8,3 +8,18 @@ dist/
 
 # Prisma
 prisma/dev.db
+
+# VS Code
+.vscode/
+
+# Visual Studio stuff
+*.suo
+*.user
+*.sln.docstates
+*.cache
+*.pdb
+*.obj
+*.dll
+.vs/
+bin/
+obj/
