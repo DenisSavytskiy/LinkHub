@@ -1,0 +1,10 @@
+# Node
+node_modules/
+dist/
+.env
+
+# OS
+.DS_Store
+
+# Prisma
+prisma/dev.db
